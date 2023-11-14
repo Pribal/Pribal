@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [gonna change this later](gonna change this later)
 
-- 📫 How to reach me **oscar.giraudoux@gmail.com**
+- 📫 Reach me by discord **pribal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
