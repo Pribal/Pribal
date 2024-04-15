@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pribal</h1>
 <h3 align="center">A student who likes cybersecurity and developpement</h3>
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://pribal.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://oscar-giraudoux.fr)
 
 - 📫 Reach me by discord **pribal**
 
